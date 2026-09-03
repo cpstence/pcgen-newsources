@@ -1,0 +1,5 @@
+[33mcf149cd740[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mNEWSOURCE-443-newsource-daggerheart-book-creation[m[33m, [m[1;31morigin/NEWSOURCE-443-newsource-daggerheart-book-creation[m[33m)[m NEWSOURCE-443 NEWSOURCE-Daggerheart Book Creation
+[33mf42afca59f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m CODE-125: Fix CMB iterative attack calculation and cap output attacks to 4
+[33ma9bbc17b63[m[33m ([m[1;31morigin/DATA-4392-aasimar-humanity[m[33m, [m[1;32mDATA-4392-aasimar-humanity[m[33m)[m Build(deps): bump net.sourceforge.pmd:pmd-ant from 7.26.0 to 7.27.0 (#7724)
+[33m08a4330623[m Build(deps): bump net.sourceforge.pmd:pmd-java from 7.26.0 to 7.27.0 (#7725)
+[33mb9e479c2e7[m Build(deps): bump org.freemarker:freemarker from 2.3.34 to 2.3.35 (#7721)
